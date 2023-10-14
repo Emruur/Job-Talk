@@ -1,2 +1,2 @@
-# VoiceWise
-VoiceWise is a call center user satisfaction analyzing software
+# JobTalk
+JobTalk is a call center user satisfaction analyzing software
